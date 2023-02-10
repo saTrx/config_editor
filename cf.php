@@ -55,7 +55,7 @@ if (in_array("-vmess", $argv)) {
 
 function vmess_edit($vmess, $proxy_list, bool $costume_list = false)
 {
-    var_dump($costume_list);
+    
     $str = '';
 
     if ($costume_list == false) {
