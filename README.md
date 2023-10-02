@@ -6,7 +6,7 @@
   use url to edit ip 
   Notice : your ip list must split by * newline *
    - ```php cf.php -vmess "string of config" ```
-   - php cf.php -vmess "string of config" -file <address of file> 
+   - ‍` php cf.php -vmess "string of config" -file <address of file>‍‍‍‍ `
    - php cf.php -vmess "string of config" -url "address of url"
    
    
