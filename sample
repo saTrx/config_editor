@@ -1,1 +1,6 @@
 vless://426b7540-9e0b-44ff-90dc-a8cbe29e934b@tel.superuser.sbs:9890?security=tls&encryption=none&alpn=h2,http/1.1&host=Zula.ir&headerType=http&type=tcp&sni=fast.com#Vs-Aref
+
+vless://f6cd466e-7ee3-4227-ab86-b0f0e9cf7ae9@mci.superuser.sbs:443?security=tls&encryption=none&alpn=h2,http/1.1&host=soft98.ir&headerType=http&type=tcp&sni=speedtest.net#vless-nzwmli0a
+
+
+vless://541ebdb4-ef53-4156-9392-426d96c2b88a@mci.moel.cloud:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=otn3.thatblackbird.com&fp=safari&type=ws&sni=otn3.thatblackbird.com#mci
